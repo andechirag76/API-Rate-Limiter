@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # API Rate Limiter
 
 A full-stack backend infrastructure project demonstrating multiple API rate limiting algorithms using Node.js, Express, React, and Redis concepts.
@@ -350,3 +351,7 @@ Lasya Kandadi
 # License
 
 This project is for educational and internship demonstration purposes.
+=======
+# API-Rate-Limiter
+-
+>>>>>>> 12786508433915c62564a64cb5af85c37669e10d
